@@ -1,0 +1,33 @@
+
+Script 1. Generates figures describing:
+
+- most common tests reported by laboratories
+- number of behavioral tests performed per subject
+- reasoning for test order
+- prevalence of multiple tests performed on the same day
+
+---
+
+### Literature analysis
+
+Script 2. 
+Generates figures describing:
+
+- most frequently used behavioral assays in NTT studies
+- most commonly reported behavioral parameters
+- number of tests per study
+- co-occurrence patterns between behavioral assays
+
+---
+
+## Reproducibility
+
+All analyses were performed in **R**.
+
+Required packages: tidyverse
+readxl
+janitor
+stringr
+tidytext
+patchwork
+scico
