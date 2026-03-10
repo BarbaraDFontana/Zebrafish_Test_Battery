@@ -34,7 +34,7 @@ Survey responses collected from zebrafish behavioral neuroscience laboratories d
 - methodological considerations
 
 ### Literature dataset
-`metanalise_zebrafish_screening.xlsx`
+`zebrafish_screening.xlsx`
 
 Curated dataset of zebrafish behavioral studies identified through PubMed searches using the keywords **"zebrafish" AND "novel tank test"**, restricted to adult zebrafish studies and excluding review articles.
 
